@@ -63,3 +63,14 @@ View master contract on Creator Testnet explorer
 # Future
 
 # Screenshots
+
+<img width="1409" alt="Screenshot 2025-02-24 at 10 54 22 PM" src="https://github.com/user-attachments/assets/a151d369-66c7-445e-9211-bab950319c74" />
+<img width="1670" alt="Screenshot 2025-02-24 at 11 03 37 PM" src="https://github.com/user-attachments/assets/2a34f449-de7f-44f8-a6e4-7ac8c351d7c1" />
+<img width="366" alt="Screenshot 2025-02-24 at 11 03 49 PM" src="https://github.com/user-attachments/assets/ef43ad49-ab39-45b9-b5c1-4ca256ec01aa" />
+<img width="495" alt="Screenshot 2025-02-24 at 11 03 58 PM" src="https://github.com/user-attachments/assets/58c30173-fcfb-4a19-a4d7-c601e983f2f4" />
+<img width="942" alt="Screenshot 2025-02-24 at 11 04 07 PM" src="https://github.com/user-attachments/assets/608643f4-af01-4354-8bb6-7fc01654497c" />
+<img width="1640" alt="Screenshot 2025-02-24 at 11 04 27 PM" src="https://github.com/user-attachments/assets/3e7884a9-bfdf-4223-9749-12c706e919b9" />
+<img width="826" alt="Screenshot 2025-02-24 at 11 04 40 PM" src="https://github.com/user-attachments/assets/792fdc65-0dca-4568-898a-69c6ba5d1346" />
+<img width="1306" alt="Screenshot 2025-02-24 at 11 04 44 PM" src="https://github.com/user-attachments/assets/31e36493-e1d7-4efe-8058-ce7b0afbceb9" />
+<img width="1642" alt="Screenshot 2025-02-24 at 11 05 00 PM" src="https://github.com/user-attachments/assets/50cb671f-f1f9-4465-906d-ba728a84b83d" />
+
